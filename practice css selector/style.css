@@ -1,0 +1,19 @@
+body{
+    width:300px;
+  }
+  .container{
+    font-weight:bold;
+  }
+  .asteroid{
+      border: solid 1px green;
+  }
+  .asteroidb326{
+      border: solid 1px green;
+  }
+  .asteroidbig{
+      color:blue;
+      background-color: yellow;
+  }
+  .asteroidb329big{
+      color:blue;
+  }  
