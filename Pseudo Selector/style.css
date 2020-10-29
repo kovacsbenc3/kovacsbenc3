@@ -1,0 +1,37 @@
+.container{
+    display:flex;
+    flex-direction: column;
+    width:600px;
+  }
+  .d{
+    border-style: solid solid none;
+  }
+  
+  .s{
+    border-style: solid solid none;
+  }
+  .a{
+    border-style: solid solid none;
+  }
+  .c{
+    border-style: solid solid none;
+  }
+  .g{
+    border-style: solid solid;
+  }
+  
+  .d:hover {
+    background:cyan;
+  }
+  .s:hover {
+    background: cyan;
+  }
+  .a:hover {
+    background: cyan;
+  }
+  .c:hover {
+    background: lime;
+  }
+  .g:hover {
+    background: lime;
+  }
